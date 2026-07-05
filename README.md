@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waad Ahmed</h1>
 
 <h3 align="center">
-Junior Cloud Engineer | AWS | Linux | Networking
+Cloud Computing Enthusiast ☁️ | AWS | Linux | Networking | Machine Learning
 </h3>
 
 ---
