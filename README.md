@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Waad Ahmed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&lines=Cloud+Computing+Enthusiast+☁️;AWS+Learner;Machine+Learning+Learner;Linux+%7C+Networking+%7C+Cloud;Future+Cloud+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Cloud+Computing+Enthusiast;AWS+Learner;Machine+Learning+Learner;Linux+%7C+Networking+%7C+Cloud;Future+Cloud+Engineer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Electrical Communications & Electronics Engineer
+- 🎓  Communications & Electronics Engineer
 - ☁️ Passionate about Cloud Computing and AWS
 - 🐧 Strong foundation in Linux Administration and Networking
 - 🤖 Currently learning Machine Learning and exploring AI applications
