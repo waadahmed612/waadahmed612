@@ -1,12 +1,12 @@
-# Hi 👋 I'm Waad Ahmed
+# Hi 👋, I'm Waad Ahmed
 
-☁️ Cloud Computing Enthusiast | AWS Learner
+### Cloud Computing Enthusiast ☁️ | AWS | Linux | Networking | Machine Learning
 
-🎓 Electrical Communications & Electronics Engineering Graduate (Class of 2025)
+🎓 Electrical Communications & Electronics Engineer
 
-💡 Passionate about Cloud Computing, DevOps, and Artificial Intelligence
+💡 Passionate about Cloud Computing, DevOps, Linux, Networking, and Artificial Intelligence.
 
-🤖 Currently Learning AWS Cloud, Machine Learning, and Cloud Architecture
+🌱 Currently learning **AWS Cloud**, **Machine Learning**, and **Cloud Architecture** while building hands-on projects to strengthen my practical skills.
 
 ---
 
@@ -16,17 +16,17 @@
 - AWS (IAM, EC2, S3, VPC, Security Groups)
 - Google Cloud Platform (GCP)
 
+### ⚙️ DevOps
+- Docker
+- Terraform
+- CI/CD
+- Git & GitHub
+
 ### 🐧 Operating Systems
 - Linux
 
 ### 🌐 Networking
 - CCNA Fundamentals
-
-### ⚙️ DevOps
-- Docker
-- Terraform
-- Git & GitHub
-- CI/CD
 
 ### 💻 Programming
 - Python
@@ -45,14 +45,31 @@
 
 ---
 
-## 🎯 Career Goal
+## 🚀 Featured Projects
 
-Aspiring Cloud Engineer passionate about designing secure, scalable cloud solutions while expanding my knowledge in Machine Learning and Artificial Intelligence.
+- ☁️ Public Cloud Environment Using DevOps Tools
+- 🎥 Video Chat Application on Google Cloud Platform
+- 🐳 Dockerized Cloud Applications
+- 🚗 Smart Car with Gas Detection System
+- 📡 Radar System
+- ☀️ Solar Tracker
+
+> More cloud and machine learning projects coming soon...
 
 ---
 
-## 📫 Contact
+## 🎯 Career Goal
+
+Aspiring Cloud Engineer seeking opportunities to design secure, scalable cloud solutions while expanding my expertise in Machine Learning and Artificial Intelligence.
+
+---
+
+## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/waad-ahmed-b0545031a
 - 📧 Email: waad56380@gmail.com
-  
+- 💻 GitHub: https://github.com/waadahmed612
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
