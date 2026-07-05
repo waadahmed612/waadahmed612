@@ -1,32 +1,16 @@
-<h1 align="center">Hi 👋, I'm Waad Ahmed</h1>
+# Hi 👋, I'm Waad Ahmed
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Cloud+Computing+Enthusiast;AWS+Learner;Machine+Learning+Learner;Linux+%7C+Networking+%7C+Cloud;Future+Cloud+Engineer" alt="Typing SVG" />
-</p>
+### ☁️ Cloud Computing Enthusiast | AWS | Linux | Machine Learning
 
----
+🎓  Communications & Electronics Engineer
 
-## 👩‍💻 About Me
+💡 Passionate about Cloud Computing, DevOps, Linux, Networking, and Artificial Intelligence.
 
-- 🎓  Communications & Electronics Engineer
-- ☁️ Passionate about Cloud Computing and AWS
-- 🐧 Strong foundation in Linux Administration and Networking
-- 🤖 Currently learning Machine Learning and exploring AI applications
-- 🚀 Expanding my knowledge in AWS Cloud and Cloud Architecture
-- 📚 I enjoy building practical cloud projects and continuously learning new technologies
-- 🎯 Aspiring Cloud Engineer seeking opportunities to grow and build impactful solutions
+🌱 Currently learning **AWS Cloud**, **Machine Learning**, and **Cloud Architecture** while building hands-on projects to strengthen my practical skills.
 
 ---
 
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,python,git,github,docker,terraform,gcp,c,cpp,vscode" />
-</p>
-
----
-
-## 💼 Technical Skills
+## 🚀 Skills
 
 ### ☁️ Cloud
 - AWS (IAM, EC2, S3, VPC, Security Groups)
@@ -38,8 +22,10 @@
 - CI/CD
 - Git & GitHub
 
-### 🖥️ Operating Systems & Networking
+### 🐧 Operating Systems
 - Linux
+
+### 🌐 Networking
 - CCNA Fundamentals
 
 ### 💻 Programming
@@ -49,12 +35,13 @@
 
 ---
 
-## 🌱 Currently Learning
+## 📌 Current Focus
 
 - AWS Cloud Architecture
 - Machine Learning
-- Artificial Intelligence
 - Cloud Security
+- DevOps
+- Building Practical Cloud Projects
 
 ---
 
@@ -67,29 +54,20 @@
 - 📡 Radar System
 - ☀️ Solar Tracker
 
----
-
-## 🎯 Career Goals
-
-- Become an AWS Cloud Engineer
-- Build scalable cloud solutions
-- Apply Machine Learning in Cloud-based applications
-- Contribute to Open Source Projects
+> More cloud and machine learning projects coming soon...
 
 ---
 
-## 🌍 Connect With Me
+## 🎯 Career Goal
 
-📧 **Email**  
-waad56380@gmail.com
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/waad-ahmed-b0545031a
-
-
+Aspiring Cloud Engineer seeking opportunities to design secure, scalable cloud solutions while expanding my expertise in Machine Learning and Artificial Intelligence.
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile!
-</h3>
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/waad-ahmed-b0545031a
+- 📧 Email: waad56380@gmail.com
+---
+
+⭐ Thanks for visiting my GitHub profile!
