@@ -1,46 +1,32 @@
-<h1 align="center">Hi 👋, I'm Waad Ahmed</h1>
+# Hi 👋 I'm Waad Ahmed
 
-<h3 align="center">
-Cloud Computing Enthusiast ☁️ | AWS | Linux | Networking | Machine Learning
-</h3>
+☁️ Cloud Computing Enthusiast | AWS Learner
 
----
+🎓 Electrical Communications & Electronics Engineering Graduate (Class of 2025)
 
-## 👩‍💻 About Me
+💡 Passionate about Cloud Computing, DevOps, and Artificial Intelligence
 
-- 🎓 Electrical Communications & Electronics Engineering Graduate (Class of 2025)
-- ☁️ Junior Cloud Engineer passionate about Cloud Computing and DevOps
-- 🐧 Strong foundation in Linux Administration and Networking
-- 🤖 Currently learning Machine Learning and exploring AI applications
-- 🚀 Expanding my knowledge in AWS Cloud and Cloud Architecture
-- 📚 I enjoy building practical cloud projects and continuously learning new technologies
-- 🎯 Seeking opportunities as a Cloud Engineer / Cloud Support Engineer
+🤖 Currently Learning AWS Cloud, Machine Learning, and Cloud Architecture
 
 ---
 
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,python,git,github,docker,terraform,gcp,c,cpp,vscode" />
-</p>
-
----
-
-## 💼 Technical Skills
+## 🚀 Skills
 
 ### ☁️ Cloud
 - AWS (IAM, EC2, S3, VPC, Security Groups)
 - Google Cloud Platform (GCP)
 
+### 🐧 Operating Systems
+- Linux
+
+### 🌐 Networking
+- CCNA Fundamentals
+
 ### ⚙️ DevOps
 - Docker
 - Terraform
-- CI/CD
 - Git & GitHub
-
-### 🖥️ Operating Systems & Networking
-- Linux
-- CCNA Fundamentals
+- CI/CD
 
 ### 💻 Programming
 - Python
@@ -49,63 +35,24 @@ Cloud Computing Enthusiast ☁️ | AWS | Linux | Networking | Machine Learning
 
 ---
 
-## 🌱 Currently Learning
+## 📌 Current Focus
 
 - AWS Cloud Architecture
 - Machine Learning
-- Artificial Intelligence
 - Cloud Security
+- DevOps
+- Building Practical Cloud Projects
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Career Goal
 
-- ☁️ Public Cloud Environment Using DevOps Tools
-- 🎥 Video Chat Application on Google Cloud Platform
-- 🐳 Dockerized Cloud Applications
-- 🚗 Smart Car with Gas Detection System
-- 📡 Radar System
-- ☀️ Solar Tracker
+Aspiring Cloud Engineer passionate about designing secure, scalable cloud solutions while expanding my knowledge in Machine Learning and Artificial Intelligence.
 
 ---
 
-## 🎯 Career Goals
+## 📫 Contact
 
-- Become an AWS Cloud Engineer
-- Build scalable cloud solutions
-- Apply Machine Learning in cloud-based applications
-- Contribute to Open Source Projects
-
----
-
-## 🌍 Connect With Me
-
-📧 **Email:**  
-waad56380@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/waad-ahmed-b0545031a
-
-💻 **GitHub:**  
-https://github.com/waadahmed612
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile!
-</h3>## 
-
-<!--
-**waadahmed612/waadahmed612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 LinkedIn: https://www.linkedin.com/in/waad-ahmed-b0545031a
+- 📧 Email: waad56380@gmail.com
+  
