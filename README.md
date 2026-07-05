@@ -68,7 +68,7 @@ Aspiring Cloud Engineer seeking opportunities to design secure, scalable cloud s
 
 - 💼 LinkedIn: https://www.linkedin.com/in/waad-ahmed-b0545031a
 - 📧 Email: waad56380@gmail.com
-- 💻 GitHub: https://github.com/waadahmed612
+
 
 ---
 
